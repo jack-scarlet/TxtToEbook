@@ -39,6 +39,7 @@ text
 text
 ...
 ```
+
 Support for declaring title tags with <h1>, <h2>... has also been added.
 ```
 text
