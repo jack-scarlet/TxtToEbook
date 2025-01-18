@@ -27,6 +27,31 @@ img\2.jpg
 ...
 cover.jpg
 ```
+Now you can add images directly to the .btxt, just start the line with the <image> tag
+```
+text
+text
+<image>1.jpg
+text
+text
+<image>2.jpg
+text
+text
+...
+```
+Support for declaring title tags with <h1>, <h2>... has also been added.
+```
+text
+text
+<h1>Hello World
+text
+text
+<h2>Welcome text
+text
+text
+...
+```
+*When using the <h1> and <h2> tags, the ebook index (toc.ncx) will use it as a reference.
 
 After the files are ready, just drag&drop the root directory to the TxtToEbook.exe and the epub will be created.
 
