@@ -52,7 +52,7 @@ text
 text
 ...
 ```
-When using the <h1> and <h2> tags, the ebook index (toc.ncx) will use it as a reference.
+*When using the h1 and h2 tags, the ebook index (toc.ncx) will use it as a reference.
 
 After the files are ready, just drag&drop the root directory to the TxtToEbook.exe and the epub will be created.
 
