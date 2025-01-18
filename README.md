@@ -29,3 +29,17 @@ cover.jpg
 ```
 
 After the files are ready, just drag&drop the root directory to the TxtToEbook.exe and the epub will be created.
+
+
+### .btxt files
+The .btxt files are just plain text files with multiple chapters that is delimited by the chapter number
+```
+Chapter 1
+
+This is the story of a man named Stanley
+
+Chapter 2
+
+Stanley worked for a company in a big building where he was Employee Number 427.
+```
+
